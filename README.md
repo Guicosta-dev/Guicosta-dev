@@ -1,62 +1,135 @@
-# Guilherme Costa | Python Developer in Progress
 
-**PT-BR** | Estudante de programação focado em Python, desenvolvimento web e criação de soluções práticas.
+<div align="center">
 
-**EN** | Programming student focused on Python, web development, and building practical solutions.
+# Guilherme Costa
+### Python Developer in Progress · Web Development
 
----
+🇧🇷 Rio de Janeiro, Brazil · 🌍 Open to remote opportunities
 
-## 🇧🇷 Sobre mim
+[![GitHub](https://img.shields.io/badge/GitHub-Guicosta--dev-181717?style=for-the-badge&logo=github)](https://github.com/Guicosta-dev)
 
-Olá! Sou Guilherme, estudante de programação no Brasil, desenvolvendo minhas habilidades por meio de estudos e projetos práticos.
+*Learning by building. Aprendendo na prática.*
 
-Atualmente, meu foco é:
-
-* **Python:** lógica de programação, estruturas de dados e orientação a objetos.
-* **Desenvolvimento web:** estudando HTML, CSS e Django.
-* **Projetos práticos:** aplicações, jogos e interfaces web.
-* **Próximos passos:** automação de tarefas, análise de dados e soluções com inteligência artificial.
-
-Busco oportunidades de estágio, posições júnior e projetos freelance que me permitam aprender, colaborar e transformar ideias em soluções úteis.
-
-## 🇬🇧 About me
-
-Hi! I'm Guilherme, a programming student based in Brazil, building my skills through hands-on learning and practical projects.
-
-My current focus includes:
-
-* **Python:** programming logic, data structures, and object-oriented programming.
-* **Web development:** learning HTML, CSS, and Django.
-* **Hands-on projects:** applications, games, and web interfaces.
-* **Next steps:** task automation, data analysis, and AI-powered solutions.
-
-I'm looking for internship opportunities, junior roles, and freelance projects where I can learn, collaborate, and turn ideas into useful solutions.
+</div>
 
 ---
 
-## 🛠️ Technologies
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* Python — currently learning and building projects
-* HTML and CSS — practical projects
-* Django — learning through coursework and applications
-* Git and GitHub — version control and project organization
+<h2 align="center">👨‍💻 About Me</h2>
 
-## 🚀 Featured Projects
+### 🇧🇷 Sobre mim
 
-* **UC2:** Python exercises, a Battleship game, and web design projects.
-* **UC3:** Python exercises and a Django project.
-* **FOMO:** event platform concept and development.
+Sou estudante de programação no Brasil, desenvolvendo minhas habilidades por meio de projetos práticos.
 
-*Project descriptions and technology lists will be refined as each repository is documented.*
+Atualmente, foco em Python, lógica de programação, orientação a objetos e desenvolvimento web com Django.
 
-## 📫 Contact
+Busco oportunidades de estágio, posições júnior e projetos freelance para transformar ideias em soluções úteis.
 
-* GitHub: [@Guicosta-dev](https://github.com/Guicosta-dev)
+### 🇬🇧 About me
 
-Open to learning opportunities, collaborations, and freelance projects.
+I'm a programming student based in Brazil, building my skills through hands-on projects.
+
+My current focus is Python, programming logic, object-oriented programming, and web development with Django.
+
+I'm looking for internships, junior opportunities, and freelance projects where I can learn and build useful solutions.
+
+<h2 align="center">🚀 Current Projects</h2>
+
+**🎟️ FOMO — Event Platform**
+
+An event platform concept focused on event discovery and presentation.
+
+`IN DEVELOPMENT`
+
+[View project](https://github.com/Guicosta-dev/FOMO)
+
+**🚢 Battleship — Python Game**
+
+A terminal-based Battleship game built to practice Python fundamentals and game logic.
+
+`COMPLETED`
+
+[View project](https://github.com/Guicosta-dev/UC2)
+
+**🎨 Web Design Projects**
+
+Creative web interfaces developed as part of my programming studies.
+
+[Explore UC2](https://github.com/Guicosta-dev/UC2)
+
+<h2 align="center">📚 Currently Learning</h2>
+
+- Python and object-oriented programming
+- Django and web application development
+- HTML and CSS
+- Git and GitHub workflows
+
+</td>
+<td width="50%" valign="top">
+
+<h2 align="center">🛠️ Technologies</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode&theme=dark" alt="Technologies" />
+</p>
+
+<p align="center">
+<sub>Technologies I use or am currently learning.</sub>
+</p>
+
+<h2 align="center">📊 Areas of Focus</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python programming" />
+<img src="https://img.shields.io/badge/Web-Development-6C63FF?style=flat-square" alt="Web development" />
+<img src="https://img.shields.io/badge/Automation-Learning-238636?style=flat-square" alt="Automation learning" />
+</p>
+
+<p align="center">
+I'm focused on building practical skills through projects rather than claiming expertise I haven't developed yet.
+</p>
+
+<h2 align="center">📁 Explore My Work</h2>
+
+<p align="center">
+<a href="https://github.com/Guicosta-dev/UC1">
+<img src="https://img.shields.io/badge/UC1-Python%20Fundamentals-3776AB?style=for-the-badge" alt="UC1 Python fundamentals" />
+</a>
+<br/><br/>
+<a href="https://github.com/Guicosta-dev/UC2">
+<img src="https://img.shields.io/badge/UC2-Games%20%26%20Web-6C63FF?style=for-the-badge" alt="UC2 games and web" />
+</a>
+<br/><br/>
+<a href="https://github.com/Guicosta-dev/UC3">
+<img src="https://img.shields.io/badge/UC3-Python%20%26%20Django-238636?style=for-the-badge" alt="UC3 Python and Django" />
+</a>
+</p>
+
+<h2 align="center">🌐 Find Me Online</h2>
+
+<p align="center">
+<a href="https://github.com/Guicosta-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<p align="center">
+Open to internships, collaborations, and freelance projects.
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-*Always learning. Always building.*
+<div align="center">
 
-*Aprendendo continuamente. Construindo projetos reais.*
+### 💡 Always Learning · Always Building
+
+*Construindo hoje as habilidades para os projetos de amanhã.*
+
+</div>
